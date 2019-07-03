@@ -1,0 +1,22 @@
+wordpress plugins
+
+1. one signal - push notifications .
+2. Icegram - Gives popups on our website and various calls to actions
+3.Migration - Security
+4. REally simple SSL - Never get the notification that th site contains the virus
+5.WP FASTEST CACHE - increases speed a lot
+6.WPS hide login - protection from the hackers . No other can acces your website
+7.Smush IMAGE COMPRESSION AND OPTIMIZATION - REduces images to increae the speed
+8.TIDIO LIVE CHAT -Live chat plugin
+9.Yoast SEO - 30% Sf  EO DONE
+10. FACEBOOK MESSENGER LIVE CHAT PLUGIN
+11.WooCommerce - helps building sales websites
+12. Wordfence Security - Firewall and malware plugin
+13.BJ Lazy load - loads image faster as well as the site 
+14.Coming soon CC - An elegant coming soon page in just few seconds
+15.LIMIT LOGI ATTEMPTS RELOADED - keep check on number of login 
+16. Black studio TinyMCE Widget - allows all the functionalities at 1 place 
+17.REvision Control - keeps the older copy of the website with us .
+
+
+

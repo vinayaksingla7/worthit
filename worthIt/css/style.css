@@ -1,0 +1,22 @@
+.zoomin 
+{   
+	height:180px;
+	margin: 0px 10px;
+	transition: 1s;
+
+}
+
+.zoomin:hover
+{
+	transform: scale(1.2);
+}
+
+.landing-text{
+  position: absolute;
+  top : 50%;
+  left : 50%;
+  transform: translate(50%, -50%);
+  width : 100%;
+  text-align: center;
+  z-index: 1;
+}
