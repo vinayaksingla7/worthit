@@ -2021,10 +2021,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     content: "";
     position: absolute;
     right: 0% ;
-    bottom: -0px;
+    bottom: -120px;
     z-index: -0.5;
-    width: 340px;
-    height: 340px;
+    width: 300px;
+    height: 300px;
     background: linear-gradient(to bottom right, transparent 0%, transparent 50%, #46dbf9 50%, #204be3 100%);
     background: -webkit-linear-gradient(to bottom right, transparent 0%, transparent 50%, #46dbf9 50%, #204be3 100%);
     background: -moz-linear-gradient(to bottom right, transparent 0%, transparent 50%, #46dbf9 50%, #204be3 100%);
@@ -2037,7 +2037,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     position: absolute;
     right: 80% ;
     top: 0px;
-    z-index: -0.5;
+    z-index: -1;
     width: 340px;
     height: 340px;
     background: linear-gradient(to top left, transparent 0%, transparent 50%, #46dbf9 50%, #204be3 100%);
