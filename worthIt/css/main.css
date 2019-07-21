@@ -1971,10 +1971,10 @@ body.mobile-nav-active #mobile-nav-toggle {
       .about-area .container:after {
         content: none; } }
 
-.home-about-left img {
+.home-about-left  {
   width: 100%; }
   @media (max-width: 991px) {
-    .home-about-left img {
+    .home-about-left  {
       display: none; } }
 
 .home-about-right h1 {
