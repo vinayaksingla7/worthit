@@ -1977,11 +1977,13 @@ body.mobile-nav-active #mobile-nav-toggle {
     .home-about-left  {
       display: none; } }
 
-.home-about-right h1 {
-  padding: 20px 0; }
+.home-about-right h1 
+{
+  padding: 20px 0;
+  font-size: 50px; }
   @media (max-width: 413px) {
     .home-about-right h1 {
-      font-size: 30px; }
+      font-size: 25px; }
       .home-about-right h1 br {
         display: none; } }
 .home-about-right p {
